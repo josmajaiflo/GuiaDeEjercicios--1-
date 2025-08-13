@@ -12,3 +12,7 @@ Práctica de posturas y respiración para cuerpo y mente.
 1. Secuencias guiadas.
 2. Mantén respiración nasal.
 3. No fuerces posturas.
+
+## Consejos
+- Usa esterilla.
+- Avanza gradualmente.
