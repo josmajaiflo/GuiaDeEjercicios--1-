@@ -12,3 +12,7 @@ Estiramientos para mejorar el rango de movimiento.
 1. Estira después de calentar.
 2. Mantén cada estiramiento 20-30 segundos.
 3. No rebotes.
+
+## Consejos
+- Respira profundo.
+- No fuerces el rango de movimiento.
