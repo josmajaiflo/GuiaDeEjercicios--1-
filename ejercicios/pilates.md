@@ -12,3 +12,7 @@ Método centrado en el núcleo y la postura.
 1. Ejercicios controlados.
 2. Enfoque en respiración.
 3. Series cortas.
+
+## Consejos
+- Calidad sobre cantidad.
+- Evita tensar cuello.
