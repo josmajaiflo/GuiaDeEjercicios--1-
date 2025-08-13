@@ -2,3 +2,8 @@
 
 ## Descripción
 Práctica de posturas y respiración para cuerpo y mente.
+
+## Beneficios
+- Flexibilidad.
+- Relajación.
+- Conciencia corporal.
